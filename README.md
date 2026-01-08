@@ -1,8 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,800020,2d000b&height=220&section=header&text=Ivan%20Rizky&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Laravel%20Enthusiast&descAlignY=55&descSize=18" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,800020,2d000b&height=220&section=header&text=Ivan%20Rizky&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Laravel%20Enthusiast&descAlignY=55&descSize=18" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github.com/ivnrzky18.png" width="150" />
-</p>
+</div>
+
+<br/>
 
 <h1 align="center">Hi 👋, I'm Ivan Rizky</h1>
 
