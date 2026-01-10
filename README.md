@@ -25,6 +25,3 @@
 ## 🌐 Connect With Me
 - 📷 Instagram: **@ivnnrzky**
 
----
-
-✨ *“Code with purpose, build with passion.”*
